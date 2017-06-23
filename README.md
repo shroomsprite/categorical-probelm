@@ -8,4 +8,4 @@ problem1.py creates a model by using perceptron algorithm to categorize a set of
 
 problem2.py creates a model by using linear regression with gradient descent algorithm. The output2.csv gives different performances based on the different learning rates and number of iterations.
 
-problem3.py utilizes python library. Given a specific dataset, we can compare the performance of different models. The second column gives the accuracy of the training data, and third column gives the accuracy of testing data when such a model after training applies to the testing data.
+problem3.py utilizes python library. Given a specific dataset, we can compare the performance of different models given different parameters. The second column gives the accuracy of the training data, and third column gives the accuracy of testing data when such a model after training applies to the testing data.
